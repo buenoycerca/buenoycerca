@@ -1,0 +1,1 @@
+class CartV2RemoveAndCouponModel {}

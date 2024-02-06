@@ -1,0 +1,1 @@
+ /home/office/Documents/github_dev1/buenoycerca/.dart_tool/flutter_build/803d483af00f1da68345bcdae94b48fe/native_assets.yaml: 

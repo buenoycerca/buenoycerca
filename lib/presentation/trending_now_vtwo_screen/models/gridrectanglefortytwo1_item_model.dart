@@ -1,0 +1,1 @@
+class Gridrectanglefortytwo1ItemModel {}

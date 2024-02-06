@@ -1,0 +1,1 @@
+ /home/office/Downloads/codecanyon-H7QdiEGF-buenoycerca-food-delivery-app-flutter-ui-template/buenoycerca/buenoycerca/.dart_tool/flutter_build/2cc9eb41b5bf8023c146c53069939ccd/native_assets.yaml: 

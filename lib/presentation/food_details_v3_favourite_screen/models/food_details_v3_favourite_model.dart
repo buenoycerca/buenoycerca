@@ -1,0 +1,1 @@
+class FoodDetailsV3FavouriteModel {}
